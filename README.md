@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Bukuo
 - 👀 I’m interested in coding, playing games
-- 🌱 I’m currently learning Python, JS (Basic code)
+- 🌱 I’m currently learning Python, JS (Basic code lol)
 - 📫 How to reach me: bukuogame@gmail.com or bukuo@proton.me
 
-Check out [this!](https://bukuo.github.io/)
+Check [this](https://bukuo.github.io/) out!
 
 <!---
 Bukuo/Bukuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
